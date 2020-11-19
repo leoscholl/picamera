@@ -27,3 +27,7 @@ Links
 .. _bug tracker: https://github.com/waveform80/picamera/issues
 .. _BSD license: https://opensource.org/licenses/BSD-3-Clause
 
+Install
+=======
+
+Navigate to the source directory then run :code:`python setup.py install --user`
